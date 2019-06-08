@@ -1,6 +1,7 @@
 # site settings
 title: Lexington DSA
-subtitle: 
+subtitle: Lexington DSA
+logo: /assets/images/lexdsa_logo.png
 email: lexingtondsa@gmail.com
 description: The Lexington, KY chapter of the Democratic Socialists of America
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -26,7 +27,7 @@ googleplus_url:
 instagram_url: 
 linkedin_url: 
 pinterest_url:
-slack_url:
+slack_url: https://lexingtondsa.slack.com
 twitter_url: https://twitter.com/lexingtondsa
 
 # build settings
